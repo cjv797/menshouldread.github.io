@@ -5,3 +5,8 @@ theme: minima
 # optional, but nice:
 minima:
   skin: auto
+
+header_pages:
+  - reviews.md
+  - musings.md
+  - about.md
