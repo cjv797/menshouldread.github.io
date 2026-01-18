@@ -1,0 +1,7 @@
+title: "Men Should Read"
+description: "Reviews and articles about books and reading"
+theme: minima
+
+# optional, but nice:
+minima:
+  skin: auto
